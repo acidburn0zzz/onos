@@ -49,7 +49,7 @@
         <slf4j.version>1.7.21</slf4j.version>
         <guava.version>22.0</guava.version>
         <commons.io.version>2.4</commons.io.version>
-        <bouncycastle.version>1.58</bouncycastle.version>
+        <bouncycastle.version>1.67</bouncycastle.version>
         <!-- TODO argLine was originally added maven-surfire-plugin configuration
                   to fix locale errors for non-US developers. However, it breaks
                   SonarQube's test coverage, so moving here for now. -->
